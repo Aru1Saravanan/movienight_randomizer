@@ -67,7 +67,11 @@ const movieTitles = [
     "Eden Lake (2008)",
     "The Day of the Jackal (2024)",
     "Suicide club (2001)",
-    "Nosferatu (2024)"
+    "Nosferatu (2024)",
+    "Seven samurai (1954)",
+    "The departed (2006)",
+    "The pianist (2002)",
+    "Grave of the fireflies (1988)"
 ];
 
 let remainingMovies = [...movieTitles]; // Tracks movies left to display
