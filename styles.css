@@ -1,0 +1,34 @@
+/* Custom Styles for Neuromorphic Buttons */
+.btn-neuromorphic {
+    background: #e0e0e0;
+    border: none;
+    box-shadow: 5px 5px 10px #bebebe,
+                -5px -5px 10px #ffffff;
+    padding: 10px 20px;
+    border-radius: 10px;
+    cursor: pointer;
+    font-size: 1rem;
+    margin: 10px;
+}
+
+.btn-neuromorphic:hover {
+    background: #ffffff;
+}
+
+/* Media Container Styles */
+.media-container {
+    margin-top: 20px;
+    background-color: #f8f8f8;
+    border-radius: 10px;
+    padding: 20px;
+    box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+}
+
+.media-container img {
+    max-width: 100%;
+    height: auto;
+    border-radius: 5px;
+}
+
+/* Additional Custom Styles */
+
